@@ -94,25 +94,25 @@
   position:absolute;
   left:13px;
   top:110px;
-  width:270px;
-  height:38px;
-  font-family:'OpenSans', 'Open Sans';
-  font-weight:400;
+  width:361px;
+  height:53px;
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
   font-style:normal;
-  font-size:28px;
+  font-size:39px;
 }
 #u6_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:270px;
-  height:38px;
+  width:361px;
+  height:53px;
 }
 #u7 {
   position:absolute;
   left:0px;
   top:0px;
-  width:270px;
+  width:361px;
   white-space:nowrap;
 }
 #u8 {
