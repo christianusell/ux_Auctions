@@ -252,5 +252,11 @@
   font-size:20px;
   line-height:24px;
 }
+.rounded_rectangle_notification {
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+}
 .pagination {
 }
