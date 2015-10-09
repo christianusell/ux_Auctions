@@ -1195,3 +1195,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u95 {
+  position:absolute;
+  left:980px;
+  top:873px;
+  width:12px;
+  height:8px;
+}
+#u95_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:12px;
+  height:8px;
+}
+#u96 {
+  position:absolute;
+  left:2px;
+  top:-4px;
+  width:8px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
