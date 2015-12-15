@@ -25,7 +25,7 @@
   top:0px;
   width:380px;
   height:40px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -90,7 +90,7 @@
   left:10px;
   top:8px;
   width:354px;
-  height:30px;
+  height:36px;
   color:#999999;
 }
 #u4_img {
@@ -98,7 +98,7 @@
   left:0px;
   top:0px;
   width:354px;
-  height:30px;
+  height:36px;
 }
 #u5 {
   position:absolute;
@@ -220,7 +220,7 @@
   top:0px;
   width:380px;
   height:40px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;

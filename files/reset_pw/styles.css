@@ -99,7 +99,7 @@
   top:0px;
   width:380px;
   height:40px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -194,7 +194,7 @@
   top:0px;
   width:380px;
   height:40px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -248,7 +248,7 @@
   left:14px;
   top:42px;
   width:332px;
-  height:72px;
+  height:88px;
   font-size:16px;
 }
 #u17_img {
@@ -256,7 +256,7 @@
   left:0px;
   top:0px;
   width:332px;
-  height:72px;
+  height:88px;
 }
 #u18 {
   position:absolute;

@@ -220,7 +220,7 @@
   top:0px;
   width:380px;
   height:40px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -358,8 +358,8 @@
   left:32px;
   top:37px;
   width:474px;
-  height:84px;
-  font-family:'ArialMT', 'Arial';
+  height:98px;
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:36px;
@@ -370,7 +370,7 @@
   left:0px;
   top:0px;
   width:474px;
-  height:84px;
+  height:98px;
 }
 #u26 {
   position:absolute;
@@ -384,14 +384,14 @@
   left:39px;
   top:143px;
   width:448px;
-  height:30px;
+  height:36px;
 }
 #u27_img {
   position:absolute;
   left:0px;
   top:0px;
   width:448px;
-  height:30px;
+  height:36px;
 }
 #u28 {
   position:absolute;

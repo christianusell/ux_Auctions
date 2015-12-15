@@ -39,14 +39,14 @@
   left:20px;
   top:37px;
   width:447px;
-  height:45px;
+  height:54px;
 }
 #u2_img {
   position:absolute;
   left:0px;
   top:0px;
   width:447px;
-  height:45px;
+  height:54px;
 }
 #u3 {
   position:absolute;
@@ -82,7 +82,7 @@
   left:40px;
   top:206px;
   width:510px;
-  height:72px;
+  height:88px;
   font-size:16px;
   color:#505050;
 }
@@ -91,7 +91,7 @@
   left:0px;
   top:0px;
   width:510px;
-  height:72px;
+  height:88px;
 }
 #u7 {
   position:absolute;
@@ -105,7 +105,7 @@
   left:347px;
   top:151px;
   width:200px;
-  height:14px;
+  height:17px;
   font-size:12px;
   color:#505050;
   text-align:right;
@@ -115,7 +115,7 @@
   left:0px;
   top:0px;
   width:200px;
-  height:14px;
+  height:17px;
 }
 #u9 {
   position:absolute;
@@ -167,7 +167,7 @@
 #u13 {
   position:absolute;
   left:2px;
-  top:11px;
+  top:9px;
   width:256px;
   word-wrap:break-word;
 }
@@ -176,7 +176,7 @@
   left:40px;
   top:862px;
   width:296px;
-  height:14px;
+  height:17px;
   font-size:12px;
   color:#999999;
 }
@@ -185,7 +185,7 @@
   left:0px;
   top:0px;
   width:296px;
-  height:14px;
+  height:17px;
 }
 #u15 {
   position:absolute;
@@ -220,9 +220,9 @@
   position:absolute;
   left:80px;
   top:352px;
-  width:146px;
-  height:18px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  width:150px;
+  height:22px;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -231,14 +231,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:146px;
-  height:18px;
+  width:150px;
+  height:22px;
 }
 #u19 {
   position:absolute;
   left:0px;
   top:0px;
-  width:146px;
+  width:150px;
   white-space:nowrap;
 }
 #u20 {
@@ -246,7 +246,7 @@
   left:380px;
   top:352px;
   width:130px;
-  height:18px;
+  height:22px;
   font-size:16px;
   text-align:right;
 }
@@ -255,7 +255,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:18px;
+  height:22px;
 }
 #u21 {
   position:absolute;
@@ -268,9 +268,9 @@
   position:absolute;
   left:80px;
   top:387px;
-  width:123px;
-  height:18px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  width:128px;
+  height:22px;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -279,14 +279,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:123px;
-  height:18px;
+  width:128px;
+  height:22px;
 }
 #u23 {
   position:absolute;
   left:0px;
   top:0px;
-  width:123px;
+  width:128px;
   white-space:nowrap;
 }
 #u24 {
@@ -294,7 +294,7 @@
   left:382px;
   top:387px;
   width:130px;
-  height:18px;
+  height:22px;
   font-size:16px;
   text-align:right;
 }
@@ -303,7 +303,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:18px;
+  height:22px;
 }
 #u25 {
   position:absolute;
@@ -316,9 +316,9 @@
   position:absolute;
   left:80px;
   top:422px;
-  width:158px;
-  height:18px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  width:163px;
+  height:22px;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -327,14 +327,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:158px;
-  height:18px;
+  width:163px;
+  height:22px;
 }
 #u27 {
   position:absolute;
   left:0px;
   top:0px;
-  width:158px;
+  width:163px;
   white-space:nowrap;
 }
 #u28 {
@@ -342,7 +342,7 @@
   left:382px;
   top:422px;
   width:130px;
-  height:18px;
+  height:22px;
   font-size:16px;
   text-align:right;
 }
@@ -351,7 +351,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:18px;
+  height:22px;
 }
 #u29 {
   position:absolute;
@@ -364,8 +364,8 @@
   position:absolute;
   left:50px;
   top:513px;
-  width:149px;
-  height:16px;
+  width:143px;
+  height:19px;
   font-size:14px;
   color:#505050;
 }
@@ -373,14 +373,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:149px;
-  height:16px;
+  width:143px;
+  height:19px;
 }
 #u31 {
   position:absolute;
   left:0px;
   top:0px;
-  width:149px;
+  width:143px;
   white-space:nowrap;
 }
 #u32 {
@@ -388,7 +388,7 @@
   left:40px;
   top:592px;
   width:510px;
-  height:144px;
+  height:176px;
   font-size:16px;
   color:#505050;
 }
@@ -397,7 +397,7 @@
   left:0px;
   top:0px;
   width:510px;
-  height:144px;
+  height:176px;
 }
 #u33 {
   position:absolute;

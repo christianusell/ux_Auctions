@@ -64,8 +64,8 @@
   position:absolute;
   left:1079px;
   top:21px;
-  width:50px;
-  height:18px;
+  width:54px;
+  height:22px;
   font-size:16px;
   color:#FFFFFF;
 }
@@ -73,14 +73,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:50px;
-  height:18px;
+  width:54px;
+  height:22px;
 }
 #u5 {
   position:absolute;
   left:0px;
   top:0px;
-  width:50px;
+  width:54px;
   white-space:nowrap;
 }
 #u6 {
@@ -471,7 +471,7 @@
   width:64px;
   height:30px;
   background-color:transparent;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -547,7 +547,7 @@
   width:64px;
   height:30px;
   background-color:transparent;
-  font-family:'ArialMT', 'Arial';
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:16px;

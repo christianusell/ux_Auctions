@@ -29,7 +29,7 @@
 #u1 {
   position:absolute;
   left:2px;
-  top:40px;
+  top:38px;
   width:128px;
   word-wrap:break-word;
 }
@@ -50,7 +50,7 @@
 #u3 {
   position:absolute;
   left:2px;
-  top:24px;
+  top:20px;
   width:128px;
   word-wrap:break-word;
 }
@@ -71,7 +71,7 @@
 #u5 {
   position:absolute;
   left:2px;
-  top:40px;
+  top:38px;
   width:128px;
   word-wrap:break-word;
 }
@@ -92,7 +92,7 @@
 #u7 {
   position:absolute;
   left:2px;
-  top:40px;
+  top:38px;
   width:128px;
   word-wrap:break-word;
 }
@@ -164,7 +164,7 @@
 #u13 {
   position:absolute;
   left:2px;
-  top:22px;
+  top:21px;
   width:96px;
   word-wrap:break-word;
 }
@@ -274,42 +274,42 @@
   position:absolute;
   left:406px;
   top:404px;
-  width:24px;
+  width:21px;
   height:15px;
 }
 #u22_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:24px;
+  width:21px;
   height:15px;
 }
 #u23 {
   position:absolute;
   left:0px;
   top:0px;
-  width:24px;
+  width:21px;
   white-space:nowrap;
 }
 #u24 {
   position:absolute;
   left:311px;
   top:372px;
-  width:17px;
+  width:19px;
   height:15px;
 }
 #u24_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:17px;
+  width:19px;
   height:15px;
 }
 #u25 {
   position:absolute;
   left:0px;
   top:0px;
-  width:17px;
+  width:19px;
   white-space:nowrap;
 }
 #u26 {
@@ -338,30 +338,30 @@
   position:absolute;
   left:77px;
   top:36px;
-  width:386px;
-  height:28px;
+  width:396px;
+  height:33px;
 }
 #u28_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:386px;
-  height:28px;
+  width:396px;
+  height:33px;
 }
 #u29 {
   position:absolute;
   left:0px;
   top:0px;
-  width:386px;
+  width:396px;
   white-space:nowrap;
 }
 #u30 {
   position:absolute;
   left:83px;
   top:585px;
-  width:247px;
-  height:16px;
-  font-family:'ArialMT', 'Arial';
+  width:266px;
+  height:19px;
+  font-family:'OpenSans', 'Open Sans';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -370,13 +370,13 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:247px;
-  height:16px;
+  width:266px;
+  height:19px;
 }
 #u31 {
   position:absolute;
   left:0px;
   top:0px;
-  width:247px;
+  width:266px;
   white-space:nowrap;
 }

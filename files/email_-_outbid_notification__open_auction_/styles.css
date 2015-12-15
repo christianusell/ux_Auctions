@@ -39,14 +39,14 @@
   left:20px;
   top:37px;
   width:447px;
-  height:45px;
+  height:54px;
 }
 #u2_img {
   position:absolute;
   left:0px;
   top:0px;
   width:447px;
-  height:45px;
+  height:54px;
 }
 #u3 {
   position:absolute;
@@ -82,7 +82,7 @@
   left:40px;
   top:206px;
   width:510px;
-  height:54px;
+  height:66px;
   font-size:16px;
   color:#505050;
 }
@@ -91,7 +91,7 @@
   left:0px;
   top:0px;
   width:510px;
-  height:54px;
+  height:66px;
 }
 #u7 {
   position:absolute;
@@ -105,7 +105,7 @@
   left:347px;
   top:151px;
   width:200px;
-  height:14px;
+  height:17px;
   font-size:12px;
   color:#505050;
   text-align:right;
@@ -115,7 +115,7 @@
   left:0px;
   top:0px;
   width:200px;
-  height:14px;
+  height:17px;
 }
 #u9 {
   position:absolute;
@@ -167,7 +167,7 @@
 #u13 {
   position:absolute;
   left:2px;
-  top:11px;
+  top:9px;
   width:256px;
   word-wrap:break-word;
 }
@@ -176,7 +176,7 @@
   left:40px;
   top:780px;
   width:509px;
-  height:14px;
+  height:17px;
   font-size:12px;
   color:#999999;
 }
@@ -185,7 +185,7 @@
   left:0px;
   top:0px;
   width:509px;
-  height:14px;
+  height:17px;
 }
 #u15 {
   position:absolute;
@@ -199,7 +199,7 @@
   left:40px;
   top:802px;
   width:296px;
-  height:14px;
+  height:17px;
   font-size:12px;
   color:#999999;
 }
@@ -208,7 +208,7 @@
   left:0px;
   top:0px;
   width:296px;
-  height:14px;
+  height:17px;
 }
 #u17 {
   position:absolute;
@@ -243,7 +243,7 @@
   position:absolute;
   left:80px;
   top:362px;
-  width:253px;
+  width:259px;
   height:48px;
   font-size:16px;
   color:#506383;
@@ -252,14 +252,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:253px;
+  width:259px;
   height:48px;
 }
 #u21 {
   position:absolute;
   left:0px;
   top:0px;
-  width:253px;
+  width:259px;
   white-space:nowrap;
 }
 #u22 {
@@ -267,8 +267,8 @@
   left:380px;
   top:331px;
   width:130px;
-  height:16px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  height:19px;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -279,7 +279,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:16px;
+  height:19px;
 }
 #u23 {
   position:absolute;
@@ -293,7 +293,7 @@
   left:380px;
   top:360px;
   width:130px;
-  height:28px;
+  height:33px;
   text-align:right;
 }
 #u24_img {
@@ -301,7 +301,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:28px;
+  height:33px;
 }
 #u25 {
   position:absolute;
@@ -315,8 +315,8 @@
   left:240px;
   top:414px;
   width:130px;
-  height:16px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  height:19px;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -326,7 +326,7 @@
   left:0px;
   top:0px;
   width:130px;
-  height:16px;
+  height:19px;
 }
 #u27 {
   position:absolute;
@@ -340,7 +340,7 @@
   left:40px;
   top:605px;
   width:510px;
-  height:54px;
+  height:66px;
   font-size:16px;
   color:#505050;
 }
@@ -349,7 +349,7 @@
   left:0px;
   top:0px;
   width:510px;
-  height:54px;
+  height:66px;
 }
 #u29 {
   position:absolute;
@@ -413,7 +413,7 @@
   left:80px;
   top:414px;
   width:106px;
-  height:16px;
+  height:19px;
   font-size:14px;
 }
 #u33_img {
@@ -421,7 +421,7 @@
   left:0px;
   top:0px;
   width:106px;
-  height:16px;
+  height:19px;
 }
 #u34 {
   position:absolute;
@@ -435,8 +435,8 @@
   left:80px;
   top:331px;
   width:44px;
-  height:16px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  height:19px;
+  font-family:'OpenSans-Bold', 'Open Sans Bold', 'Open Sans';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -447,7 +447,7 @@
   left:0px;
   top:0px;
   width:44px;
-  height:16px;
+  height:19px;
 }
 #u36 {
   position:absolute;
@@ -517,7 +517,7 @@
   left:192px;
   top:414px;
   width:38px;
-  height:16px;
+  height:19px;
   font-size:14px;
 }
 #u39_img {
@@ -525,7 +525,7 @@
   left:0px;
   top:0px;
   width:38px;
-  height:16px;
+  height:19px;
 }
 #u40 {
   position:absolute;
@@ -538,8 +538,8 @@
   position:absolute;
   left:50px;
   top:494px;
-  width:149px;
-  height:32px;
+  width:151px;
+  height:38px;
   font-size:14px;
   color:#505050;
 }
@@ -547,13 +547,13 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:149px;
-  height:32px;
+  width:151px;
+  height:38px;
 }
 #u42 {
   position:absolute;
   left:0px;
   top:0px;
-  width:149px;
+  width:151px;
   white-space:nowrap;
 }

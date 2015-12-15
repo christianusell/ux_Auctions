@@ -963,7 +963,7 @@
 #u75 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:151px;
   word-wrap:break-word;
 }
@@ -1307,8 +1307,8 @@
   position:absolute;
   left:41px;
   top:421px;
-  width:141px;
-  height:15px;
+  width:139px;
+  height:18px;
   text-decoration:underline;
   color:#506383;
 }
@@ -1316,13 +1316,13 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:141px;
-  height:15px;
+  width:139px;
+  height:18px;
 }
 #u104 {
   position:absolute;
   left:0px;
   top:0px;
-  width:141px;
+  width:139px;
   white-space:nowrap;
 }
